@@ -4,6 +4,8 @@
 
 DataSearch Analyzer is a powerful search tool with integrated data analysis functionalities, designed to work seamlessly with MongoDB databases. This tool allows users to efficiently search, retrieve, and analyze data stored in MongoDB collections, making it an ideal solution for data exploration and insights.
 
+- Simple User Interface: Intuitive UI that allows users to choose between individual and bulk search options.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
