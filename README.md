@@ -11,8 +11,7 @@ DataSearch Analyzer is a powerful search tool with integrated data analysis func
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
