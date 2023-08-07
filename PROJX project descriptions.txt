@@ -1,0 +1,18 @@
+1 • Developed a python tool to query the data against MongoDB and output the desired 
+results either to UI or a CSV file.
+
+
+2 • Developed a python tool to query 
+the data against MongoDB for the client with a simple UI to easily query the database, 
+which eventually reduced querying time and helped in managing the records of the company's employees
+
+
+3 Developed a python application to query the data against MongoDB to
+ help the organization examine required data throughout the database. 
+
+
+
+4 Developed a python application to query the data against MongoDB to help the organization
+ examine required data throughout the database with more than 20 million data and over 12K collections. 
+
+5. Used inno script to convert .py program to Setup file(installs all the dependencies of the program, runs everywhere)
