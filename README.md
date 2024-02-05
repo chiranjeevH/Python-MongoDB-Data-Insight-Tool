@@ -1,4 +1,4 @@
-# MongoDB-Search-Analyzer-Tool
+# DataPulse Explorer: Python-Driven MongoDB Analytics for Enterprises
 
 # DataSearch Analyzer
 
