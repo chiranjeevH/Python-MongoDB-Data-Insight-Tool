@@ -1,4 +1,4 @@
-# Sales Data Insight Tool
+# Data Insight Tool
 
 # Python-Driven MongoDB Analytics for Enterprises
 
