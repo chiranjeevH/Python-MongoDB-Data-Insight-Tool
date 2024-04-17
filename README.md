@@ -1,6 +1,6 @@
 # Data Insight Tool
 
-# Python-Driven MongoDB Analytics for Enterprises
+# Python-Driven MongoDB Analytics
 
 
  Data Insight Tool is a powerful search tool with integrated data analysis functionalities, designed to work seamlessly with MongoDB databases. This tool allows users to efficiently search, retrieve, and analyze data stored in MongoDB collections, making it an ideal solution for data exploration and insights.
