@@ -1,8 +1,8 @@
-1 • Developed a python tool to query the data against MongoDB and output the desired 
+1 Developed a python tool to query the data against MongoDB and output the desired 
 results either to UI or a CSV file.
 
 
-2 • Developed a python tool to query 
+2 Developed a python tool to query 
 the data against MongoDB for the client with a simple UI to easily query the database, 
 which eventually reduced querying time and helped in managing the records of the company's employees
 
